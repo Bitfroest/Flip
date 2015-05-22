@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flip</string>
+
+    <string name="hostIP">10.152.196.231</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="textViewRev">Revolutions</string>
+    <string name="action_settings">Settings</string>
+    <string name="signing_in">Signing in with Google</string>
+    <string name="signing_out">Signing out</string>
+    <string name="title_activity_main">Type-a-Number Challenge</string>
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leaderboards.</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="what_score_do_you_deserve">What score do you think you deserve?</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leaderboards</string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="you_win">You win!</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

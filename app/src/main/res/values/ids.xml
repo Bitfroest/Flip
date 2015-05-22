@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App ID -->
+    <string name="app_id">400036023812</string>
+
+    <!-- achievement/leaderboard ID -->
+    <string name="leaderboard_easy">CgkIhJyFoNILEAIQAQ</string>
+</resources>
